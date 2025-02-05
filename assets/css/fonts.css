@@ -5,6 +5,13 @@
 }
 
 @font-face {
+    font-family: OPPO;
+    font-weight: 700;
+    src: url("../fonts/OPPO Sans 4.0.woff2") format("woff2");
+}
+
+
+@font-face {
     font-family: "Libre Baskerville";
     font-style: normal;
     font-weight: 400;
